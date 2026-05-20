@@ -119,16 +119,6 @@ G --> H[Speaker Output + Emotion]
 
 ---
 
-# 🔌 Circuit Diagram
-
-<div align="center">
-
-![Circuit Diagram](assets/circuit-diagram.png)
-
-</div>
-
----
-
 # 🧠 Emotion System
 
 The robot can express multiple emotions dynamically.
@@ -264,8 +254,8 @@ If you like this project:
 
 # 📬 Contact
 
-📧 Email: your-email@example.com  
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
+📧 Email: kunalkatre87@example.com  
+🔗 LinkedIn: https://www.linkedin.com/in/kunalkatre03 
 
 ---
 
